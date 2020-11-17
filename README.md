@@ -2,7 +2,9 @@
 
 For those that have uninstalled iTunes on Mojave, and are looking to replace it.
 
-Download
-Extract (pass: alpine)
-Copy to Apps folder
-Done
+iTunes.app 12.9.5.5 
+
+1. Download
+2. Extract (pass: alpine)
+3. Copy to Apps folder
+4. Done
